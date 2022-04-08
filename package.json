@@ -1,0 +1,24 @@
+{
+  "name": "movielookup",
+  "version": "0.0.1",
+  "description": "A web app that you can use to look up movie times",
+  "main": "node.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexNayl/webDevMovieAssign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexNayl/webDevMovieAssign/issues"
+  },
+  "homepage": "https://github.com/AlexNayl/webDevMovieAssign#readme"
+}

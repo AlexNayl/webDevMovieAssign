@@ -1,0 +1,26 @@
+.searchArea{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30pt;
+}
+
+.searchArea td{
+	padding: 5pt;
+	text-align: right;
+}
+
+.searchArea select{
+	width: 100%;
+}
+
+.resultsTable{
+	margin: 20pt;
+}
+
+.textCenter{
+	text-align: center;
+}
+
+body{
+	margin: 0;
+}
